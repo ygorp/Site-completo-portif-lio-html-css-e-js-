@@ -1,4 +1,5 @@
 # Site-completo-portif-lio-html-css-e-js-
+
 portfólio do desenvoledor
 
 ## Tarefas
@@ -9,5 +10,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 :package: nova funcionalidade
 :up: atualização
-:beattle: correção de bug
+:beattle: csorreção de bug
 :checkered_flag: release
