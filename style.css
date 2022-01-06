@@ -28,7 +28,7 @@ header {
   height: 100%;
   object-fit: cover;
   opacity: 0.5;
-  animation: zoom 20s;
+  animation: zoom 10s;
 }
 
 @keyframes zoom {
